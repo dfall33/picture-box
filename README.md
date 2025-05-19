@@ -6,6 +6,11 @@ A custom-built interactive photo frame that displays images on a TFT screen and 
 
 This project uses an ESP32 microcontroller connected to a TFT display (ILI9341) and an MPU6050 motion sensor. When the device detects motion (like being picked up or shaken), it transitions smoothly between photos using a fade animation.
 
+## Photos 
+<img src="./media/picture-box.png" alt="Photo 1" width="350"/>
+
+Note: This image is a real picture of the device, but the faces have been blurred for privacy reasons.
+
 ## Features
 
 - Motion detection using MPU6050 accelerometer/gyroscope
